@@ -25,7 +25,7 @@ int main() {
     printf("\nPilih Kode Kategori (1 untuk Ganjil, 2 untuk Genap): ");
     scanf("%d", &kategori);
 
-    // Proses Perhitungan
+    // Proses 
     for (int i = 0; i < n; i++) {
         int nomorUrut = i + 1; // Karena array mulai dari 0, kita tambah 1
 

@@ -7,4 +7,4 @@ buat lah sebuah program yang mampu menentukan total stok hanya untuk kategori ba
 3.Kode Kategori Barang ( bebas ) 
 
   
-berdasarkan apa kertas itu di tumpuk
+berdasarkan apa kertas itu di tumpuk.

@@ -51,7 +51,7 @@ int main() {
     }
     printf("------------------------------------------\n");
 
-    // 2. Sistem Pemesanan (Looping)
+    // 2. Sistem Pemesanan 
     while(true) {
         printf("\nMasukkan Kode Menu (ketik 0 untuk selesai): ");
         scanf("%d", &pilihan);

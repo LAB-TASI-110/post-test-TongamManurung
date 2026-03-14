@@ -68,7 +68,7 @@ int main() {
             strcpy(promo, "Tidak ada promo");
         }
 
-        // Output Struk Pembayaran
+        // Output Struk 
         printf("\n======================================\n");
         printf("         STRUK PEMBAYARAN DEL EXPRES    \n");
         printf("======================================\n");

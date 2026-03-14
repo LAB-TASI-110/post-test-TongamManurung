@@ -24,4 +24,4 @@ Output Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat
  
 
 
-buatkan dalam 1 fungsi
+buatkan dalam 1 fungsi.
