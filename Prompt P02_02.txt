@@ -1,0 +1,10 @@
+buat lah sebuah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta. Kode program bahasa C yang sering digunakan dan mudah di pahami fungsi nya ,  dengan studi case : Ada data stok barang disimpan dalam sebuah rak gedung yang sudah tersusun rapi . Pola penyimpanan untuk memahami bagaimana kelompok barang di pisahkan
+* Kategori 1 ( ganjil ) : data ke- 1,3,5,.... 
+* Kategori 2 ( Genap ) : data ke- 2,4,6,...
+ . Input : 
+1.jumlah total data (N)
+2.Deret stok (s1,s2,...,sN)
+3.Kode Kategori Barang ( bebas ) 
+
+  
+berdasarkan apa kertas itu di tumpuk

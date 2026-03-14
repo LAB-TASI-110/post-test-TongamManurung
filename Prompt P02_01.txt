@@ -1,0 +1,27 @@
+tolong bantu buat kan sebuah Kode Program bahasa C dari studi case 
+dimana seorang  mahasiswa ingin mengirim barang dengan Daftar Ongkos kiirm Del Expres 
+1. kode Kota : MDN , BLG, JKT ,SBY 
+2.Nama kota : Medan, balige,jakarta ,Surabaya 
+3.Ongkos Kirim /kg : 8000,5000,12000,13000
+4.keterangan : Dalam Pulau ,Dalam pulau, Luar Pulau, luar Pulau
+kemudian ada pula Promo lebaran dengan ketentuan :
+* Syarat : 1.total berat pengiriman lebih dari 10 kg  promo yang di dapat  10%
+                 2.Pengiriman ke kota luar Pulau promo yang diadapat asuransi gratis  
+tetapi Saat petugas menimbang paket mereka, ternyata terdapat sedikit perbedaan ukuran dus yang mereka gunakan.Logikanya : ada 2 pengiriman Butet dan ucok , jiak berat paket butet adalah x maka berat paket ucok adalah 1.5x (3/2 dari berat butet ). lalu program menerima input 
+Program ini menggunakan  looping dimana program terus meminta input hingga pengguna memasukan kode kota END
+dengan input Output yang diharapkan :
+Input
+
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+Output Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh,
+ 
+
+
+buatkan dalam 1 fungsi

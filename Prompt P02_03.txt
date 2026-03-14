@@ -1,0 +1,6 @@
+buatlah Program dalam bahasa C yang mudah dipahami untuk mengelola operasioanal harian kafetaria di IT Del ,dengan program mencakup dengan fungsi Utama :
+1. Manajemen Menu  : Menyimpan daftar menu ( makanan & Minuman ) beserta dengan harga dan stok yang tersedia .
+2.sistem pemesanan : dengan pelanggan memasukkan kode menu dan jumlah pesanan.Program harus memvalidasi apakah stok mencukupi .
+3.Penghitungan Otomatis : menghitung total belanja , menerapkan PPN ( misal 10%), dan memberikan diskon kusus jika pembeli adalah mahasiswa iT Del (dengan validasi input NIM) 
+pada program gunakan looping agar si kasir bisa memasukkan banyak menu dalam satu transaksi dan mengetikkan perintah selesai 
+dengan output menampilkan struk belanja yang rapi 
